@@ -1,4 +1,3 @@
 # Abracadabra
 
-This application displays a gradually increasing pattern.
-Its a simple animation app, user need not to interact with the app.
+This is a basic animation app, build upon flutter framework. The animation includes a gradually increasing in size box with rotation as well.
